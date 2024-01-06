@@ -118,6 +118,7 @@ p ,	h3{
 	height: 900px;
 	background: url(../images/kar.png) no-repeat;
 	background-size: 90% 60%;
+	background-position-y: 100px;
 
 }
 .box5 {	
@@ -128,7 +129,7 @@ p ,	h3{
 .box5 h1 {
 	font-size: 60px;
 	color: #4D6BB9;
-	padding: ;
+	margin-bottom: 80px;
 }
 .box5 p{
 	margin-top: -50px;
